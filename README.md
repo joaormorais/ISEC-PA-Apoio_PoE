@@ -53,9 +53,7 @@ Image translator: https://translate.yandex.com/ocr
 
 # How to use the application 
 
-
-
-
+(unfinished)
 
 
 

@@ -41,19 +41,24 @@ Image translator: https://translate.yandex.com/ocr
 
 # Features that weren't developed 
 
-(unfinished)
+● Undo e Redo 
+● Send a clone of the data from the internship's class
+● Edit students, professors, applications and proposals
+
 
 
 
 # Known bugs
 
-(unfinished)
+None.
 
 
 
 # How to use the application 
 
-(unfinished)
+● Run the application
+● Add data with the .csv files that can be found inside the project folder, or add data manually
+● Navigate through phases and explore the rest of functionalities (associations between students and internships, professors and students...)
 
 
 

@@ -1,4 +1,4 @@
-# ISEC-PWEB-Apoio_PoE
+# ISEC-PD-Apoio_PoE
 
 I was given a project to develop a Java-based application to support the management of projects and internships for the Department of Computer and Systems Engineering at ISEC. 
 
@@ -50,7 +50,7 @@ Image translator: https://translate.yandex.com/ocr
 
 # Known bugs
 
-None.
+None
 
 
 

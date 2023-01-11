@@ -1,4 +1,6 @@
-# ISEC-PD-Apoio_PoE
+# ISEC-PA-Apoio_PoE
+(Programação Avançada)
+(Advanced Programming)
 
 I was given a project to develop a Java-based application to support the management of projects and internships for the Department of Computer and Systems Engineering at ISEC. 
 
